@@ -5,7 +5,7 @@
  * @version 2.1.1.03
 */
 /* Used Materialistic as a base, check it out here: https://github.com/booglesmcgee/booglesmcgee.github.io/tree/main/Materialistic-Discord*/
-@import url('https://github.com/sparrow-701/rep701/blob/main/eft-theme/Bender.woff2');
+@import url('https://fonts.googleapis.com/css2?family=Coustard&display=swap'); /* Replacement font before I figure it out properly */
 @import url('https://gibbu.github.io/BetterDiscord-Themes/AdjustableServerWidth/base.css');
 @import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
 
